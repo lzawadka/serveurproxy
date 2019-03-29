@@ -35,5 +35,4 @@ else if( $detect->isTablet() ){
 }else{
   echo 'desktop';
 }
-// Check for a specific platform with the help of the magic methods:
 
